@@ -1,3 +1,3 @@
 # odin-recipes
-Project: Recipes
+Project: Recipes\
 Learn to build a basic recipe website
